@@ -4,13 +4,19 @@ So I am trying to make a ornithopter what it does is it flap its wing to generat
 The Goal of the project: to build a lightweight ornithopter capable of stable powered flight using a simple flapping mechanism.
 
 The project will be set up in phases.
+
 Phase 1 
 This is the prototyping phase of the wing movement mechanism. I will be designing a body that takes the rotating motion from a motor to move the wings up and down. I will be looking for reliability, strength, and efficiency.
+
 Phase 2
+
 Here I will be designing the wing. I need to make it lightweight. I will also be testing it with the gear mechanism and measuring how much lift it produces so I can determine my design constraints for the tail.
 Phase 3 – Adding the Tail and Other Electronics
+
 This is where I will be adding the tail and electronics together. I will also be doing some early test flights if all goes to plan. My goal is to have a clean mechanical system. The tail will look like an airplane tail, as I am currently just focusing on the flapping mechanism.
+
 Phase 4
+
 This phase is for debugging and testing. I want to aim for reliability and simplicity, and I will be conducting my own test flights as well.
 
 Current Progress (Phase 1)
