@@ -1,3 +1,5 @@
+![Ornithopter Prototype](assets/pic.png)
+
 Hello,
 So I am trying to make a ornithopter what it does is it flap its wing to generate life ( aka a mechinal bird) 
 
