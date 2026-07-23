@@ -10,7 +10,7 @@ The project will be set up in phases.
 Phase 1 
 This is the prototyping phase of the wing movement mechanism. I will be designing a body that takes the rotating motion from a motor to move the wings up and down. I will be looking for reliability, strength, and efficiency.
 
-Phase 2
+Phase 2 
 
 Here I will be designing the wing. I need to make it lightweight. I will also be testing it with the gear mechanism and measuring how much lift it produces so I can determine my design constraints for the tail.
 Phase 3 – Adding the Tail and Other Electronics
