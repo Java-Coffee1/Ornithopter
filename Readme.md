@@ -27,3 +27,9 @@ I am using this simulation tool to help calculate and visualize the wing path:
 https://www.desmos.com/calculator/iuprdl6sxk
 My motor has a KV rating of 1700, and I will need a gear reduction of approximately 21.24:1. This may change during testing, but for now I am satisfied with the 
 I have just submitted my project for funding so I am hoping it will go though. 
+
+## CAD Animation
+
+[![Ornithopter CAD Animation](assets/ornithopter-animation.gif)](assets/ornithopter-animation.mp4)
+
+*Click the animation to watch the full video.*
